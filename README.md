@@ -20,7 +20,7 @@ Soy estudiante de **Ingeniería Informática** y **Administración y Dirección 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-robledano-47691333b/) 
 - 📫 **mariarobledano7@gmail.com**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgandarillas&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100474933&layout=compact)
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=c" alt="C" />
