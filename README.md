@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**100474933/100474933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy María Robledano Soldevilla 👋
 
-Here are some ideas to get you started:
+¡Bienvenid@ a mi perfil de GitHub!  
+Soy estudiante de **Ingeniería Informática** y **Administración y Dirección de Empresas** en la Universidad Carlos III de Madrid. Me apasiona la tecnología, la programación y cómo las herramientas digitales pueden impactar el mundo empresarial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+- 🌱 Actualmente estoy aprendiendo sobre desarrollo de software, inteligencia artificial y análisis de datos.
+- 🚀 Me interesan los proyectos que combinen tecnología y estrategia empresarial.
+- 💻 Lenguajes que uso: **Python**, **Java**, **C++**, **SQL**, y algunos frameworks para desarrollo web.
+- 📚 En mi tiempo libre, disfruto explorando libros sobre innovación y liderazgo.
+
+## Mis objetivos
+- Contribuir a proyectos de código abierto.
+- Seguir desarrollando habilidades en ciencia de datos e inteligencia artificial.
+- Participar en iniciativas tecnológicas que ayuden a mejorar procesos empresariales.
+
+## Conecta conmigo
+- 💼 [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-robledano-47691333b/) 
+- 📫 **mariarobledano7@gmail.com**
+
