@@ -20,3 +20,21 @@ Soy estudiante de **Ingeniería Informática** y **Administración y Dirección 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-robledano-47691333b/) 
 - 📫 **mariarobledano7@gmail.com**
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgandarillas&layout=compact)
+
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  </a>
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  </a>
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+</p>
