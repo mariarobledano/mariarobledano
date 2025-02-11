@@ -24,14 +24,14 @@ Soy estudiante de **Ingeniería Informática** y **Administración y Dirección 
 ## 📊 Estadísticas de Lenguajes
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariarobledano&layout=compact&langs_count=10&theme=cobalt" alt="Lenguajes más usados">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariarobledano&layout=compact&langs_count=10&theme=radical" alt="Lenguajes más usados">
 </p>
-
 
 ## Summary 💻
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariarobledano&theme=cobalt">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariarobledano&theme=radical">
 </p>
+
 
 
 ## Tecnologías y Herramientas 🛠️
