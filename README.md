@@ -20,7 +20,14 @@ Soy estudiante de **Ingeniería Informática** y **Administración y Dirección 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-robledano-47691333b/) 
 - 📫 **mariarobledano7@gmail.com**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100474933&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariarobledano&layout=compact)
+
+## 📊 Actividad Reciente en GitHub
+
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariarobledano&theme=dracula" width="600">
+</a>
+
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=c" alt="C" />
