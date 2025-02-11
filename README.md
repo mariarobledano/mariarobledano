@@ -20,28 +20,28 @@ Soy estudiante de **Ingeniería Informática** y **Administración y Dirección 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-robledano-47691333b/) 
 - 📫 **mariarobledano7@gmail.com**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariarobledano&layout=compact)
 
-## 📊 Actividad Reciente en GitHub
+## Stats 📊
+<!-- ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariarobledano&theme=cobalt) -->
+<p align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariarobledano&theme=cobalt">
+</p>
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariarobledano&theme=dracula" width="600">
-</a>
+## Summary 💻
+<p align="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariarobledano&theme=cobalt">
+</p>
 
+
+## Tecnologías y Herramientas 🛠️
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=c" alt="C" />
-  </a>
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  </a>
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  </a>
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  </a>
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-  </a>
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-  </a>
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  </a>
 </p>
+
