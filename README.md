@@ -21,11 +21,12 @@ Soy estudiante de **Ingeniería Informática** y **Administración y Dirección 
 - 📫 **mariarobledano7@gmail.com**
 
 
-## Stats 📊
-<!-- ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariarobledano&theme=cobalt) -->
+## 📊 Estadísticas de Lenguajes
+
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariarobledano&theme=cobalt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariarobledano&layout=compact&langs_count=10&theme=cobalt" alt="Lenguajes más usados">
 </p>
+
 
 ## Summary 💻
 <p align="center">
