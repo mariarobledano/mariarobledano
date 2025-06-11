@@ -33,7 +33,6 @@ Soy estudiante de **Ingeniería Informática** y **Administración y Dirección 
 </p>
 
 
-
 ## Tecnologías y Herramientas 🛠️
 
 <p align="left">
