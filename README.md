@@ -29,7 +29,7 @@ Soy estudiante de **Ingeniería Informática** y **Administración y Dirección 
 
 ## Summary 💻
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariarobledano&theme=radical">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariarobledano&theme=radical&timestamp=20250611">
 </p>
 
 
